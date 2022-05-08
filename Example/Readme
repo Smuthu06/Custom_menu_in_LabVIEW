@@ -1,0 +1,11 @@
+Menu Configurator
+	Using this Utility, user can create the configuration file for Menu. (Loaction -> Public API's -> Menu Configurator.vi)
+	Run the Utility Load file to edit the exsiting file or Create a new file using new file option
+	SyncSols Menu has 3 Stages Root, Sub, Child
+	User can Add this menu list using this Utility
+	Button Icon size Should be 48*48 and it should be in PNG format
+	Extend Icon size should be 24*24 and should be in PNG format
+	
+Menu Example
+	Menu Example will explain the usage of API public API's 
+	
