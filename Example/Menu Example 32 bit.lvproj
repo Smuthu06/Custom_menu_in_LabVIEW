@@ -45,6 +45,7 @@
 						<Item Name="Change Menu Configure.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Change Menu Configure.vi"/>
 						<Item Name="Launch Menu.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Launch Menu.vi"/>
 						<Item Name="Close Menu.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Close Menu.vi"/>
+						<Item Name="Get Menu Position.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Get Menu Position.vi"/>
 					</Item>
 					<Item Name="Start Module.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Start Module.vi"/>
 					<Item Name="Synchronize Module Events.vi" Type="VI" URL="../../Builds/32 bit/Menu Launcher Module.lvlibp/Libraries/Menu Launcher Module/Synchronize Module Events.vi"/>
